@@ -1,1 +1,1 @@
-# socratix-web
+# Socratix-edu.github.io
